@@ -19,6 +19,7 @@ A front-end banking transfer prototype built with HTML, CSS, and JavaScript. It 
 - `index.html` defines the screens, forms, and navigation.
 - `styles.css` defines the visual layout, colors, and responsive behavior.
 - `app.js` handles demo sign-in, navigation, profile and security settings, form validation, beneficiaries, transfers, receipts, and history.
+- `.github/workflows/pages.yml` deploys the static site to GitHub Pages when you push to `main`.
 - `PROJECT-REPORT.md` describes the goals, user flow, design, and limitations.
 
 ## Important demo behavior
